@@ -3,8 +3,8 @@ Implementation of Ray Tracing along with Recursive Ray Tracing upto two levels. 
 
 #The format of input file is shown - 
 
-<Size of a point( in terms of pixels)\>
-<How triangles and spheres will be interpolated\>
+\<Size of a point( in terms of pixels)\>
+\<How triangles and spheres will be interpolated\>
 
 <No. of spheres>
 FOR EACH SPHERE
